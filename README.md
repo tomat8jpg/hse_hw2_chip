@@ -1,6 +1,6 @@
 # hse_hw2_chip
 Ссылка на коллаб - https://colab.research.google.com/drive/1img-kCAt8a44rLxSQA0MzxfKOYFTn_tj?usp=sharing  
-Клеточная линия K562, гистоновая метка H3K4me3  
+Клеточная линия H1, гистоновая метка H3K4me3
 # FastQC
 Реплика 1 (ENCFF156FYC.fastq) и реплика 2 (ENCFF654NIP.fastq)
 Было 	ENCFF156FYC.fastq:  
